@@ -12,7 +12,7 @@ It allows management of:
 * Beds
 * Emergency Cases
 
-## ?? Technologies Used
+##  Technologies Used
 
 * Python
 * Tkinter
