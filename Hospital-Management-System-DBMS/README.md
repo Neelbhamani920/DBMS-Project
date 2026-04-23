@@ -1,6 +1,6 @@
 # Hospital Management System (DBMS Project)
 
-## ?? Description
+##  Description
 
 This project is a desktop-based Hospital Management System developed using Python Tkinter and MySQL.
 
@@ -18,7 +18,7 @@ It allows management of:
 * Tkinter
 * MySQL
 
-## ?? Features
+##  Features
 
 * Add/Delete Patients
 * Manage Doctors
@@ -26,13 +26,13 @@ It allows management of:
 * Bed Management System
 * Emergency Handling
 
-## ??? Database Setup
+##  Database Setup
 
 1. Open MySQL
 2. Run the `database.sql` file
 3. Update your MySQL password in `main.py`
 
-## ?? How to Run
+##  How to Run
 
 1. Install Python
 2. Install mysql connector:
@@ -40,6 +40,6 @@ It allows management of:
 3. Run:
    python main.py
 
-## ????? Author
+##  Author
 
 Neel Bhamani
