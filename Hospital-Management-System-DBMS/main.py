@@ -12,7 +12,7 @@ from datetime import datetime
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Mouse@2010",   # ← change this
+    "password": "",   
     "database": "hospital_db"
 }
 
